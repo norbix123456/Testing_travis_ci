@@ -34,7 +34,7 @@ setup(
         "Programming Language :: Python :: 3.11",
         "Operating System :: Microsoft :: Windows"
     ],
-    packages=["medium_multiply"],
+    packages=["medium_multiply_Nor8ix"],
     include_package_data=True,
     install_requires=["numpy"]
 )

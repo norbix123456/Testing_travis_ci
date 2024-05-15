@@ -1,6 +1,6 @@
 import unittest
 import math
-from medium_multiply import Multiplication
+from medium_multiply_Nor8ix import Multiplication
 
 
 class MultiplicationTestCase(unittest.TestCase):

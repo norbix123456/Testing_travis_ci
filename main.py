@@ -1,5 +1,5 @@
 # Import Multiplication from your library
-from medium_multiply import Multiplication
+from medium_multiply_Nor8ix import Multiplication
 
 # Instantiate a Multiplication object
 multiplication = Multiplication(2)
